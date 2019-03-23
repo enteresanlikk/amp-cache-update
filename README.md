@@ -1,4 +1,8 @@
 # AMP CACHE UPDATE SYSTEM
+<p align="center" style="margin: 50px 0;">
+    <img src="amp-logo.svg" />
+</p>
+
 > You can use this system if you still have old AMP content after changing the AMP content. With this system, you can update the cache of your AMP pages.
 
 ## How to use it?
