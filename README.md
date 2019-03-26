@@ -1,4 +1,4 @@
-# AMP CACHE UPDATE SYSTEM
+# AMP CACHE UPDATE
 <p align="center" style="margin: 50px 0;">
     <img src="amp-logo.svg" />
 </p>
