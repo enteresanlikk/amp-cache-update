@@ -92,7 +92,8 @@ class IVS_AMP_CACHE_UPDATE {
     }
 
     private function getAMPDomain($domain = "") {
-       return $domain["scheme"]."://".str_replace('.', '-', $domain["host"]);
+        $domain["host"] = str_replace("-","--",$domain["host"]);
+        return $domain["scheme"]."://".str_replace('.', '-', $domain["host"]);
     }
 
     private function getAMPUrl($url = "") {

@@ -15,4 +15,4 @@ $cache = new Lib\IVS_AMP_CACHE_UPDATE(
     $urls,
     $pemFileName);
 
-$cache->update(false);
+$cache->update();
