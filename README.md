@@ -11,7 +11,7 @@
 
 1. Take the project to your computer.
 
-    `git clone https://github.com/enteresanlikk/ivs-amp-cache-update.git`
+    `git clone https://github.com/enteresanlikk/amp-cache-update.git`
 
     or
 
